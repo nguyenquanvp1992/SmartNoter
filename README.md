@@ -1,0 +1,2 @@
+# SmartNotor
+Ứng dụng Notes
